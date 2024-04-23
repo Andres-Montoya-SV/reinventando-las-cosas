@@ -1,0 +1,24 @@
+{
+  "name": "reinventando-axios",
+  "version": "1.0.0",
+  "description": "Reinventando la dependencia de Axios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-Montoya-SV/reinventando-las-cosas.git"
+  },
+  "keywords": [
+    "axios",
+    "node"
+  ],
+  "type":"module",
+  "author": "Andres Rivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andres-Montoya-SV/reinventando-las-cosas/issues"
+  },
+  "homepage": "https://github.com/Andres-Montoya-SV/reinventando-las-cosas#readme"
+}
